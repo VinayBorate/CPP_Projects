@@ -1,7 +1,7 @@
 
 
 ---
-# **Assignment - 1 **
+# **Assignment-1**
 # **File Processing System**  
 
 ## **Project Description**  
