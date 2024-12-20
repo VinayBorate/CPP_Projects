@@ -1,0 +1,21 @@
+[2024-12-05 16:22:22] [trace] [:] ================================================================================
+[2024-12-05 16:22:22] [trace] [:] ==========================Starting test_receiver.cpp ====================================
+[2024-12-05 16:22:22] [trace] [:] ================================================================================
+[2024-12-05 16:22:22] [info] [:] ReadFileTest => SIZE LIMIT : (UTEST_REC_FILE_READ_OF_SIZE) = 10
+[2024-12-05 16:22:22] [info] [:] Read file: ./VijayBuffer2/vijayfiles_ in 3 ms, Size: 10 MB
+[2024-12-05 16:22:22] [info] [:] DeleteFileTest => SIZE LIMIT : (UTEST_REC_FILE_DELETE_OF_SIZE) = 20
+[2024-12-05 16:22:22] [info] [:] Deleted file: ./VijayBuffer2/vijayfiles_ in 1 ms
+[2024-12-05 16:22:22] [info] [:] ProcessFileTest => SIZE LIMIT : (UTEST_REC_FILE_PROCESSING_OF_SIZE) = 20
+[2024-12-05 16:22:22] [info] [:] Read file: ./VijayBuffer2/vijayfiles_ in 4 ms, Size: 20 MB
+[2024-12-05 16:22:22] [info] [:] Deleted file: ./VijayBuffer2/vijayfiles_ in 1 ms
+[2024-12-05 16:22:22] [info] [:] DirectoryCreationTest PATH : =./VijayBuffer2
+[2024-12-05 16:22:22] [info] [:] ReceiverFileReadingTime PerformanceTest, LIMIT : 100 MB in 500 ms
+[2024-12-05 16:22:22] [info] [:] Read file: ./VijayBuffer2/vijayfiles_ in 30 ms, Size: 100 MB
+[2024-12-05 16:22:22] [info] [:] Time taken to read 100 MB file: 30 ms
+[2024-12-05 16:22:22] [info] [:] ReceiverFileDeletionTime PerformanceTest, LIMIT : 100 MB in 100 ms
+[2024-12-05 16:22:22] [info] [:] Deleted file: ./VijayBuffer2/vijayfiles_ in 6 ms
+[2024-12-05 16:22:22] [info] [:] Time taken to delete 100 MB file: 6 ms
+[2024-12-05 16:22:22] [info] [:] Completed FileDeletionTime Performance Test SERVICE.............
+[2024-12-05 16:22:22] [trace] [:] ================================================================================
+[2024-12-05 16:22:22] [trace] [:] ==========================Ending test_receiver.cpp ====================================
+[2024-12-05 16:22:22] [trace] [:] ================================================================================

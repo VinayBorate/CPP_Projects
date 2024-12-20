@@ -1,0 +1,67 @@
+[2024-12-05 16:16:54] [info] [:] .txt
+[2024-12-05 16:16:54] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:16:55] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:16:56] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:16:57] [info] [:] =====================================
+[2024-12-05 16:16:57] [info] [:] Statistics after Every 3 SECONDS
+[2024-12-05 16:16:57] [info] [:] Average read time per file: 0 ms
+[2024-12-05 16:16:57] [info] [:] Average delete time per file: 0 ms
+[2024-12-05 16:16:57] [info] [:] Number of files read: 0
+[2024-12-05 16:16:57] [info] [:] Number of files deleted: 0
+[2024-12-05 16:16:57] [info] [:] =====================================
+[2024-12-05 16:16:57] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:16:58] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:16:59] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:17:00] [info] [:] =====================================
+[2024-12-05 16:17:00] [info] [:] Statistics after Every 3 SECONDS
+[2024-12-05 16:17:00] [info] [:] Average read time per file: 0 ms
+[2024-12-05 16:17:00] [info] [:] Average delete time per file: 0 ms
+[2024-12-05 16:17:00] [info] [:] Number of files read: 0
+[2024-12-05 16:17:00] [info] [:] Number of files deleted: 0
+[2024-12-05 16:17:00] [info] [:] =====================================
+[2024-12-05 16:17:00] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:17:01] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:17:02] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:17:03] [info] [:] =====================================
+[2024-12-05 16:17:03] [info] [:] Statistics after Every 3 SECONDS
+[2024-12-05 16:17:03] [info] [:] Average read time per file: 0 ms
+[2024-12-05 16:17:03] [info] [:] Average delete time per file: 0 ms
+[2024-12-05 16:17:03] [info] [:] Number of files read: 0
+[2024-12-05 16:17:03] [info] [:] Number of files deleted: 0
+[2024-12-05 16:17:03] [info] [:] =====================================
+[2024-12-05 16:17:03] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:17:58] [trace] [:] ================================================================================
+[2024-12-05 16:17:58] [trace] [:] ==========================Starting receiver.cpp ====================================
+[2024-12-05 16:17:58] [trace] [:] ================================================================================
+[2024-12-05 16:17:58] [info] [:] .txt
+[2024-12-05 16:17:58] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:17:59] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:00] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:01] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:01] [info] [:] =====================================
+[2024-12-05 16:18:01] [info] [:] Statistics after Every 3 SECONDS
+[2024-12-05 16:18:01] [info] [:] Average read time per file: 0 ms
+[2024-12-05 16:18:01] [info] [:] Average delete time per file: 0 ms
+[2024-12-05 16:18:01] [info] [:] Number of files read: 0
+[2024-12-05 16:18:01] [info] [:] Number of files deleted: 0
+[2024-12-05 16:18:01] [info] [:] =====================================
+[2024-12-05 16:18:02] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:03] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:04] [info] [:] =====================================
+[2024-12-05 16:18:04] [info] [:] Statistics after Every 3 SECONDS
+[2024-12-05 16:18:04] [info] [:] Average read time per file: 0 ms
+[2024-12-05 16:18:04] [info] [:] Average delete time per file: 0 ms
+[2024-12-05 16:18:04] [info] [:] Number of files read: 0
+[2024-12-05 16:18:04] [info] [:] Number of files deleted: 0
+[2024-12-05 16:18:04] [info] [:] =====================================
+[2024-12-05 16:18:04] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:05] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:06] [warning] [:] Waiting for sender to upload files...
+[2024-12-05 16:18:07] [info] [:] =====================================
+[2024-12-05 16:18:07] [info] [:] Statistics after Every 3 SECONDS
+[2024-12-05 16:18:07] [info] [:] Average read time per file: 0 ms
+[2024-12-05 16:18:07] [info] [:] Average delete time per file: 0 ms
+[2024-12-05 16:18:07] [info] [:] Number of files read: 0
+[2024-12-05 16:18:07] [info] [:] Number of files deleted: 0
+[2024-12-05 16:18:07] [info] [:] =====================================
+[2024-12-05 16:18:07] [warning] [:] Waiting for sender to upload files...

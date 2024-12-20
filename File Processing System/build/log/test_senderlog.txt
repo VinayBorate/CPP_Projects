@@ -1,0 +1,132 @@
+[2024-12-05 16:18:27] [trace] [:] ================================================================================
+[2024-12-05 16:18:27] [trace] [:] ==========================Starting test_sender.cpp =============================
+[2024-12-05 16:18:27] [trace] [:] ================================================================================
+[2024-12-05 16:18:27] [info] [:] Starting FileCountValidationTest
+[2024-12-05 16:18:28] [info] [:] Created file: ./VijayBuffer2/vijayfiles_1.txt with size 800 MB in 698 ms
+[2024-12-05 16:18:28] [info] [:] Created file: ./VijayBuffer2/vijayfiles_2.txt with size 60 MB in 44 ms
+[2024-12-05 16:18:28] [info] [:] Created file: ./VijayBuffer2/vijayfiles_3.txt with size 100 MB in 73 ms
+[2024-12-05 16:18:28] [info] [:] Created file: ./VijayBuffer2/vijayfiles_4.txt with size 150 MB in 121 ms
+[2024-12-05 16:18:28] [info] [:] Created file: ./VijayBuffer2/vijayfiles_5.txt with size 200 MB in 153 ms
+[2024-12-05 16:18:28] [info] [:] Created file: ./VijayBuffer2/vijayfiles_6.txt with size 69 MB in 58 ms
+[2024-12-05 16:18:28] [info] [:] Statistics after 6 files:
+[2024-12-05 16:18:28] [info] [:] Average time per file: 191.16666666666666 ms
+[2024-12-05 16:18:28] [info] [:] Number of files sent: 6
+[2024-12-05 16:18:30] [info] [:] Created file: ./VijayBuffer2/vijayfiles_7.txt with size 800 MB in 927 ms
+[2024-12-05 16:18:30] [info] [:] Created file: ./VijayBuffer2/vijayfiles_8.txt with size 60 MB in 40 ms
+[2024-12-05 16:18:30] [info] [:] Created file: ./VijayBuffer2/vijayfiles_9.txt with size 100 MB in 64 ms
+[2024-12-05 16:18:31] [info] [:] Created file: ./VijayBuffer2/vijayfiles_10.txt with size 150 MB in 358 ms
+[2024-12-05 16:18:31] [info] [:] Created file: ./VijayBuffer2/vijayfiles_11.txt with size 200 MB in 658 ms
+[2024-12-05 16:18:32] [info] [:] Created file: ./VijayBuffer2/vijayfiles_12.txt with size 69 MB in 228 ms
+[2024-12-05 16:18:32] [info] [:] Statistics after 12 files:
+[2024-12-05 16:18:32] [info] [:] Average time per file: 285.1666666666667 ms
+[2024-12-05 16:18:32] [info] [:] Number of files sent: 12
+[2024-12-05 16:18:35] [info] [:] Created file: ./VijayBuffer2/vijayfiles_13.txt with size 800 MB in 1999 ms
+[2024-12-05 16:18:36] [info] [:] Created file: ./VijayBuffer2/vijayfiles_14.txt with size 60 MB in 148 ms
+[2024-12-05 16:18:36] [info] [:] Created file: ./VijayBuffer2/vijayfiles_15.txt with size 100 MB in 320 ms
+[2024-12-05 16:18:36] [info] [:] Created file: ./VijayBuffer2/vijayfiles_16.txt with size 150 MB in 489 ms
+[2024-12-05 16:18:37] [info] [:] Created file: ./VijayBuffer2/vijayfiles_17.txt with size 200 MB in 639 ms
+[2024-12-05 16:18:37] [info] [:] Created file: ./VijayBuffer2/vijayfiles_18.txt with size 69 MB in 228 ms
+[2024-12-05 16:18:37] [info] [:] Statistics after 18 files:
+[2024-12-05 16:18:37] [info] [:] Average time per file: 402.5 ms
+[2024-12-05 16:18:37] [info] [:] Number of files sent: 18
+[2024-12-05 16:18:41] [info] [:] Created file: ./VijayBuffer2/vijayfiles_19.txt with size 800 MB in 1748 ms
+[2024-12-05 16:18:42] [info] [:] Created file: ./VijayBuffer2/vijayfiles_20.txt with size 60 MB in 200 ms
+[2024-12-05 16:18:42] [info] [:] Created file: ./VijayBuffer2/vijayfiles_21.txt with size 100 MB in 312 ms
+[2024-12-05 16:18:42] [info] [:] Created file: ./VijayBuffer2/vijayfiles_22.txt with size 150 MB in 488 ms
+[2024-12-05 16:18:43] [info] [:] Created file: ./VijayBuffer2/vijayfiles_23.txt with size 200 MB in 669 ms
+[2024-12-05 16:18:44] [info] [:] Created file: ./VijayBuffer2/vijayfiles_24.txt with size 69 MB in 412 ms
+[2024-12-05 16:18:44] [info] [:] Statistics after 24 files:
+[2024-12-05 16:18:44] [info] [:] Average time per file: 461.4166666666667 ms
+[2024-12-05 16:18:44] [info] [:] Number of files sent: 24
+[2024-12-05 16:18:47] [info] [:] Completed FileCountValidationTest
+[2024-12-05 16:18:47] [info] [:] Created file: ./VijayBuffer2/vijayfiles_1.txt with size 800 MB in 546 ms
+[2024-12-05 16:18:48] [info] [:] Created file: ./VijayBuffer2/vijayfiles_2.txt with size 60 MB in 36 ms
+[2024-12-05 16:18:48] [info] [:] Created file: ./VijayBuffer2/vijayfiles_3.txt with size 100 MB in 63 ms
+[2024-12-05 16:18:48] [info] [:] Created file: ./VijayBuffer2/vijayfiles_4.txt with size 150 MB in 139 ms
+[2024-12-05 16:18:49] [info] [:] Created file: ./VijayBuffer2/vijayfiles_5.txt with size 200 MB in 1348 ms
+[2024-12-05 16:18:49] [info] [:] Created file: ./VijayBuffer2/vijayfiles_6.txt with size 69 MB in 48 ms
+[2024-12-05 16:18:49] [info] [:] Statistics after 6 files:
+[2024-12-05 16:18:49] [info] [:] Average time per file: 363.3333333333333 ms
+[2024-12-05 16:18:49] [info] [:] Number of files sent: 6
+[2024-12-05 16:18:52] [info] [:] Created file: ./VijayBuffer2/vijayfiles_7.txt with size 800 MB in 959 ms
+[2024-12-05 16:18:52] [info] [:] Created file: ./VijayBuffer2/vijayfiles_8.txt with size 60 MB in 45 ms
+[2024-12-05 16:18:52] [info] [:] Created file: ./VijayBuffer2/vijayfiles_9.txt with size 100 MB in 72 ms
+[2024-12-05 16:18:52] [info] [:] Created file: ./VijayBuffer2/vijayfiles_10.txt with size 150 MB in 169 ms
+[2024-12-05 16:18:53] [info] [:] Created file: ./VijayBuffer2/vijayfiles_11.txt with size 200 MB in 387 ms
+[2024-12-05 16:18:53] [info] [:] Created file: ./VijayBuffer2/vijayfiles_12.txt with size 69 MB in 151 ms
+[2024-12-05 16:18:53] [info] [:] Statistics after 12 files:
+[2024-12-05 16:18:53] [info] [:] Average time per file: 330.25 ms
+[2024-12-05 16:18:53] [info] [:] Number of files sent: 12
+[2024-12-05 16:18:56] [info] [:] Created file: ./VijayBuffer2/vijayfiles_13.txt with size 800 MB in 1635 ms
+[2024-12-05 16:18:56] [info] [:] Created file: ./VijayBuffer2/vijayfiles_14.txt with size 60 MB in 118 ms
+[2024-12-05 16:18:57] [info] [:] Created file: ./VijayBuffer2/vijayfiles_15.txt with size 100 MB in 320 ms
+[2024-12-05 16:18:57] [info] [:] Created file: ./VijayBuffer2/vijayfiles_16.txt with size 150 MB in 499 ms
+[2024-12-05 16:18:58] [info] [:] Created file: ./VijayBuffer2/vijayfiles_17.txt with size 200 MB in 652 ms
+[2024-12-05 16:18:58] [info] [:] Created file: ./VijayBuffer2/vijayfiles_18.txt with size 69 MB in 225 ms
+[2024-12-05 16:18:58] [info] [:] Statistics after 18 files:
+[2024-12-05 16:18:58] [info] [:] Average time per file: 411.77777777777777 ms
+[2024-12-05 16:18:58] [info] [:] Number of files sent: 18
+[2024-12-05 16:19:02] [info] [:] Created file: ./VijayBuffer2/vijayfiles_19.txt with size 800 MB in 3307 ms
+[2024-12-05 16:19:02] [info] [:] Created file: ./VijayBuffer2/vijayfiles_20.txt with size 60 MB in 50 ms
+[2024-12-05 16:19:03] [info] [:] Created file: ./VijayBuffer2/vijayfiles_21.txt with size 100 MB in 258 ms
+[2024-12-05 16:19:03] [info] [:] Created file: ./VijayBuffer2/vijayfiles_22.txt with size 150 MB in 452 ms
+[2024-12-05 16:19:04] [info] [:] Created file: ./VijayBuffer2/vijayfiles_23.txt with size 200 MB in 660 ms
+[2024-12-05 16:19:04] [info] [:] Created file: ./VijayBuffer2/vijayfiles_24.txt with size 69 MB in 221 ms
+[2024-12-05 16:19:04] [info] [:] Statistics after 24 files:
+[2024-12-05 16:19:04] [info] [:] Average time per file: 515 ms
+[2024-12-05 16:19:04] [info] [:] Number of files sent: 24
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_1.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_1.txt, Expected Size: 838860800 bytes, Actual Size: 838860800 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_2.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_2.txt, Expected Size: 62914560 bytes, Actual Size: 62914560 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_3.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_3.txt, Expected Size: 104857600 bytes, Actual Size: 104857600 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_4.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_4.txt, Expected Size: 157286400 bytes, Actual Size: 157286400 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_5.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_5.txt, Expected Size: 209715200 bytes, Actual Size: 209715200 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_6.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_6.txt, Expected Size: 72351744 bytes, Actual Size: 72351744 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_7.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_7.txt, Expected Size: 838860800 bytes, Actual Size: 838860800 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_8.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_8.txt, Expected Size: 62914560 bytes, Actual Size: 62914560 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_9.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_9.txt, Expected Size: 104857600 bytes, Actual Size: 104857600 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_10.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_10.txt, Expected Size: 157286400 bytes, Actual Size: 157286400 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_11.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_11.txt, Expected Size: 209715200 bytes, Actual Size: 209715200 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_12.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_12.txt, Expected Size: 72351744 bytes, Actual Size: 72351744 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_13.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_13.txt, Expected Size: 838860800 bytes, Actual Size: 838860800 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_14.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_14.txt, Expected Size: 62914560 bytes, Actual Size: 62914560 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_15.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_15.txt, Expected Size: 104857600 bytes, Actual Size: 104857600 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_16.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_16.txt, Expected Size: 157286400 bytes, Actual Size: 157286400 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_17.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_17.txt, Expected Size: 209715200 bytes, Actual Size: 209715200 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_18.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_18.txt, Expected Size: 72351744 bytes, Actual Size: 72351744 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_19.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_19.txt, Expected Size: 838860800 bytes, Actual Size: 838860800 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_20.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_20.txt, Expected Size: 62914560 bytes, Actual Size: 62914560 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_21.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_21.txt, Expected Size: 104857600 bytes, Actual Size: 104857600 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_22.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_22.txt, Expected Size: 157286400 bytes, Actual Size: 157286400 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_23.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_23.txt, Expected Size: 209715200 bytes, Actual Size: 209715200 bytes
+[2024-12-05 16:19:06] [info] [:] PATH OF FILE IS ====>>>>./VijayBuffer2/vijayfiles_24.txt
+[2024-12-05 16:19:06] [info] [:] File: ./VijayBuffer2/vijayfiles_24.txt, Expected Size: 72351744 bytes, Actual Size: 72351744 bytes
+[2024-12-05 16:19:07] [info] [:] Sender DirectoryCreationTest PATH(BUFFER_DIR)=./VijayBuffer2
+[2024-12-05 16:19:07] [info] [:] Starting RenameFileTest
+[2024-12-05 16:19:07] [info] [:] Completed RenameFileTest
+[2024-12-05 16:19:07] [info] [:] TIME LIMIT To Create 100 MB FILE IS => 500 ms
+[2024-12-05 16:19:07] [info] [:] Time taken to create 100 MB file: 102 ms
+[2024-12-05 16:19:07] [info] [:] TIME LIMIT To Rename 100 MB FILE IS => 500 ms
+[2024-12-05 16:19:07] [info] [:] Time taken to rename 100 MB file: 0 ms

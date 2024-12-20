@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/receiver.dir/receiver/src/receiver.cpp.o CMakeFiles/receiver.dir/common/src/config.cpp.o -o receiver  /root/VijayWorkSpace/Assignments/Assignments/Assignment_3/lib/libspdlog.a liblogger.a 
